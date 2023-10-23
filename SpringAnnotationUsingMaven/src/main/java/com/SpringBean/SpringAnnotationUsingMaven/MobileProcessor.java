@@ -1,0 +1,7 @@
+package com.SpringBean.SpringAnnotationUsingMaven;
+
+public interface MobileProcessor 
+{
+    void process();
+}
+  

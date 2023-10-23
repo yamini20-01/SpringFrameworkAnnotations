@@ -1,0 +1,8 @@
+package com.SpringBean.SpringAnnotationUsingMaven;
+
+
+public class Samsung {
+	public void config() {
+		System.out.println("Samsung s7");
+	}
+}

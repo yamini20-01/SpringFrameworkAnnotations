@@ -1,0 +1,14 @@
+package com.SpringBean.SpringAnnotationUsingMaven;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        Samsung s=new Samsung();
+        s.config();
+    }
+}
